@@ -1,0 +1,1 @@
+a simple select query class approaching php framework select query builder"
